@@ -121,6 +121,24 @@ form.signUp-form {
 .btn:hover {
   background: #e9c46a;
 }
+.btn2 {
+  width: 50%;
+  height: 50px;
+  border: none;
+  border-radius: 50px;
+  background: #e9c46a;
+  color: #fff;
+  font-weight: 600;
+  margin: 10px 0;
+  text-transform: uppercase;
+  text-align: center;
+  cursor: pointer;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+
 
 .social-text {
   margin: 10px 0;
