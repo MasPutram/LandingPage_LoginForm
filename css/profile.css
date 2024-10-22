@@ -1,20 +1,20 @@
-body{
-    color: #818d97;
-    margin-top:20px;
+body {
+  color: #818d97;
+  margin-top: 20px;
 }
 .section {
-    padding: 100px 0;
-    position: relative;
+  padding: 100px 0;
+  position: relative;
 }
 .gray-bg {
-    background-color: #f5f5f5;
+  background-color: #f5f5f5;
 }
 img {
-    max-width: 100%;
+  max-width: 100%;
 }
 img {
-    vertical-align: middle;
-    border-style: none;
+  vertical-align: middle;
+  border-style: none;
 }
 /* About Me 
 ---------------------*/
@@ -107,17 +107,20 @@ img {
   margin: 0;
 }
 mark {
-    background-image: linear-gradient(rgba(252, 83, 86, 0.6), rgba(252, 83, 86, 0.6));
-    background-size: 100% 3px;
-    background-repeat: no-repeat;
-    background-position: 0 bottom;
-    background-color: transparent;
-    padding: 0;
-    color: currentColor;
+  background-image: linear-gradient(
+    rgba(252, 83, 86, 0.6),
+    rgba(252, 83, 86, 0.6)
+  );
+  background-size: 100% 3px;
+  background-repeat: no-repeat;
+  background-position: 0 bottom;
+  background-color: transparent;
+  padding: 0;
+  color: currentColor;
 }
 .theme-color {
-    color: #e9c46a;
+  color: #e9c46a;
 }
 .dark-color {
-    color: #444;
+  color: #444;
 }
