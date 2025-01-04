@@ -1,0 +1,49 @@
+/*book*/
+  .card {
+    padding: 0; /* Menghapus padding default untuk proporsi */
+    margin: 0; /* Tengah-tengah setiap card */
+    width: 250px; /* Pastikan card tidak melebihi grid */
+    border: none;
+}
+
+.card-img-top {
+    width: 104%;  /* Memastikan gambar memenuhi lebar card */
+    height: 350px; /* Atur tinggi gambar sesuai kebutuhan */
+    object-fit: cover; /* Menjaga gambar tetap proporsional */
+}
+
+/* Memberikan margin kanan pada card */
+.card-item {
+    outline: none;
+    box-shadow: none;
+}
+
+/* Optional: Menambahkan padding dalam card */
+.card-item .card {
+    padding-right: 9px;  /* Menambahkan ruang di dalam card */
+}
+
+
+
+.card-body {
+    text-align: center; /* Agar teks berada di tengah */
+    padding: 10px; /* Padding yang proporsional */
+}
+
+.card-title {
+    font-size: 1.2rem; /* Ukuran font yang lebih besar */
+    font-weight: bold; /* Penebalan untuk terlihat lebih jelas */
+    min-height: 50px; /* Atur sesuai kebutuhan */
+}
+
+.card-text {
+    font-size: 1rem; /* Menyesuaikan ukuran teks */
+}
+
+.btn {
+    width: 100%; /* Tombol mengikuti lebar card */
+    font-size: 1rem; /* Ukuran font tombol */
+    padding: 10px; /* Padding tombol lebih proporsional */
+}
+
+  
